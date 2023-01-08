@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "VAZQUEZ RODRIGUEZ, MARIA DEL CARMEN",
+    "poblacion": "VITORIA-GASTEIZ",
+    "direccion": "CALLE ARIZNABARRA Nº 3",
+    "telefono": "945130804",
+    "codigopostal": "01007",
+    "horario": "09:00 - 22:00"
+  },
+  {
+    "nombre": "CANALES LEZA, IÑIGO",
+    "poblacion": "VITORIA-GASTEIZ",
+    "direccion": "CALLE POSTAS Nº 6",
+    "telefono": "945231151",
+    "codigopostal": "01001",
+    "horario": "09:00 - 22:00"
+  },
+  {
+    "nombre": "YELA RUIZ, MARÍA ISABEL",
+    "poblacion": "VITORIA-GASTEIZ",
+    "direccion": "CALLE VOLUNTARIA ENTREGA Nº 40",
+    "telefono": "945271762",
+    "codigopostal": "01010",
+    "horario": "09:00 - 22:00"
+  },
+  {
+    "nombre": "LOPETEGUI GARMENDIA, BEÑAT",
+    "poblacion": "VITORIA-GASTEIZ",
+    "direccion": "CALLE FLORIDA Nº 63",
+    "telefono": "945273696",
+    "codigopostal": "01003",
+    "horario": "09:00 - 22:00"
+  },
+  {
+    "nombre": "LOPEZ DE HEREDIA ELOSEGUI, ISABEL",
+    "poblacion": "VITORIA-GASTEIZ",
+    "direccion": "CALLE ORTIZ DE ZARATE Nº 22",
+    "telefono": "945258002",
+    "codigopostal": "01005",
+    "horario": "22:00 - 09:00"
+  }
+]
